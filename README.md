@@ -1,5 +1,5 @@
 # Projeto com README
-Primeira vez usando o README. Utilizando este arquivo para testar e treinar. QUero deixar claro que TODAS as informações colocadas aqui é para treinamento. 🚀
+Primeira vez usando o README. Utilizando este arquivo para testar e treinar. Quero deixar claro que TODAS as informações colocadas aqui é para treinamento. 🚀
 
 [<img src="./animacao-sw.gif" alt="treinando como colocar gif no projeto">]
 
